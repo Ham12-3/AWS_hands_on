@@ -21,6 +21,12 @@ Then after that I created an Alias for the IAM user URL on the IAM dashboard:
 ![aws-6](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/912b5d24-a1f2-4114-9694-71a32804a078)
 
 
+Then voilla, I have logged in into my IAM user account :
+
+![aws-7](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/d5b3c630-701d-478e-a206-7b27d21ef9b1)
+
+
+
 
 
 
