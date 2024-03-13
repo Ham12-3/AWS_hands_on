@@ -25,6 +25,10 @@ Then voilla, I have logged in into my IAM user account :
 
 ![aws-7](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/d5b3c630-701d-478e-a206-7b27d21ef9b1)
 
+Process of attaching another policy to the IAM user using the Attach Policy directly section:
+
+![aws-8](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/65daffb9-a68a-467b-b81f-59826e8da2b3)
+
 
 
 
