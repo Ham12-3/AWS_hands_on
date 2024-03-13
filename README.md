@@ -58,3 +58,26 @@ Access Key already created to add to access the CLI and SDK.
 
 ![aws-10](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/4ec11c51-b5a4-4887-8261-600d432ad6db)
 
+The image of how I se the AWS CloudShell 
+
+![aws-11](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/6071a4dc-5f13-4d04-be93-dcb856c0302f)
+
+The process of creating a EC2 IAM role
+
+![aws-12](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/e9490833-454d-4c75-9eec-c7e00ad01578)
+
+Then I configured atrust policy, then a permission policy(access policy)
+
+![aws-13](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/e8ed9858-ea5d-404d-a63f-fdd04fdccf98)
+
+
+The IAM Credential Report
+
+![aws-14](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/e3d33ae9-0cfc-40b6-a654-6a7b9c1da96b)
+
+The AWS IAM Access Advisor
+
+![aws-15](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/377622d7-9414-4013-97a0-b64b8629a53f)
+
+
+
