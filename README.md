@@ -95,6 +95,15 @@ The process of launching an EC2 instance
 
 ![aws-19](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/09bd2239-662e-413b-9bdd-336dc0e4fb26)
 
+![aws-20](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/23cd0b61-a2ba-4b90-8d2b-38da96ab0a3b)
+
+![aws-21](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/0ba60f0d-a194-4aa1-91d7-06e76c5ef73d)
+
+![aws-22](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/4dc60203-34e8-4121-aa7e-bc59f88cde67)
+
+
+
+
 
 
 
