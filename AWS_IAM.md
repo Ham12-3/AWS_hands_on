@@ -42,6 +42,7 @@ Then afterwards, I created next and then I created a group called admin and gave
 ![aws-5](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/e1b3150f-b39c-493d-a0a1-83929e64eb83)
 
 <hr>
+
 ![aws-6](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/912b5d24-a1f2-4114-9694-71a32804a078)
 
 <hr>
