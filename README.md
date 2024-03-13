@@ -66,7 +66,7 @@ The process of creating a EC2 IAM role
 
 ![aws-12](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/e9490833-454d-4c75-9eec-c7e00ad01578)
 
-Then I configured atrust policy, then a permission policy(access policy)
+Then I configured a trust policy, then a permission policy(access policy)
 
 ![aws-13](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/e8ed9858-ea5d-404d-a63f-fdd04fdccf98)
 
@@ -75,9 +75,31 @@ The IAM Credential Report
 
 ![aws-14](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/e3d33ae9-0cfc-40b6-a654-6a7b9c1da96b)
 
-The AWS IAM Access Advisor
+The AWS Access Advisor
 
 ![aws-15](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/377622d7-9414-4013-97a0-b64b8629a53f)
+
+The AWS low budget I just created:
+
+![aws-16](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/ae8d3a3c-8f7a-4bb9-aeb6-0135abf3797b)
+
+
+## Amazon EC2
+
+The process of launching an EC2 instance
+
+![aws-17](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/26702b04-eac8-4c2d-b0e6-94ed6dba4083)
+
+
+![aws-18](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/8990a323-33ef-4df8-9fba-11da8eff0d78)
+
+![aws-19](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/09bd2239-662e-413b-9bdd-336dc0e4fb26)
+
+
+
+
+
+
 
 
 
