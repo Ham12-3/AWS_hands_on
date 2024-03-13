@@ -102,6 +102,8 @@ The process of launching an EC2 instance
 ![aws-22](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/4dc60203-34e8-4121-aa7e-bc59f88cde67)
 
 
+Then we run the EC2 and then use it to start a server:
+![aws-23](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/20156990-63ca-44b7-bee3-4ebccbb41a7a)
 
 
 
