@@ -4,3 +4,8 @@ first of all, I went to the IAM section in my root account, then I searched for 
 , afterwards I clicked on User, then create user:
 ![aws-1](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/649d851e-74f6-4bb0-8fcf-3752b0497be2)
 
+Then I created a custom password for myself, then I unclicked the changing of password because it is a demo, but if I want it done real life, I will have to check the changing of password for security purposes.
+Then afterwards, I created next and then I created a group called admin and gave it AdministratorAccess so that I can attach the user (abdulhamid to the group)
+![aws-2](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/e68db637-5d7a-41f7-af87-64230fb7f617)
+
+
