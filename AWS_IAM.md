@@ -14,6 +14,14 @@ Then after that, I added tags to the AWS user(department, engineering)
 Then after the user has been created successfully, I then returned to the users list to show the list of users
 ![aws-4](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/2249f4ed-272f-4c13-baae-40ec13b8017c)
 
+Then after that I created an Alias for the IAM user URL on the IAM dashboard:
+![aws-5](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/e1b3150f-b39c-493d-a0a1-83929e64eb83)
+
+
+![aws-6](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/912b5d24-a1f2-4114-9694-71a32804a078)
+
+
+
 
 
 
