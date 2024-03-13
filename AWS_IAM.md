@@ -11,6 +11,9 @@ Then afterwards, I created next and then I created a group called admin and gave
 
 Then after that, I added tags to the AWS user(department, engineering)
 ![aws-3](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/9c797251-2702-4bdf-b11e-891d900739ab)
+Then after the user has been created successfully, I then returned to the users list to show the list of users
+![aws-4](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/2249f4ed-272f-4c13-baae-40ec13b8017c)
+
 
 
 
