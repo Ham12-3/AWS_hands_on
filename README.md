@@ -128,5 +128,11 @@
 - Attaching my newly created EBS volume to my EC2 instance with the same AZ of use-east-1d
   ![aws-34](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/167050c4-2f38-4910-aca1-e7af4ad5dfe2)
 
+- Creation of snaphots for the EBS volume, to be able to use in other availability zone
+
+  ![aws-35](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/1f64b7d4-ada5-4282-9a58-84aa4cf97c62)
+
+- Retention rule used for the EBS snaphots
+  ![aws-36](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/b69622f6-07d1-4ca5-a537-02f5a4781449)
 
 
