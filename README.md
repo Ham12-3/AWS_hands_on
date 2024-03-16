@@ -107,6 +107,9 @@ Then we run the EC2 and then use it to start a server:
 
 
 
+Then we have our security groups and our inbound rules there too:
+![aws-24](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/49d5d689-185e-471e-b3ed-3296809d18fa)
+![aws-25](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/1176f524-34be-42b4-85a6-3367c853942f)
 
 
 
