@@ -125,6 +125,8 @@
 
   ![aws-33](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/099e37f0-3328-4c64-9df5-c0f313791794)
 
+- Attaching my newly created EBS volume to my EC2 instance with the same AZ of use-east-1d
+  ![aws-34](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/167050c4-2f38-4910-aca1-e7af4ad5dfe2)
 
 
 
