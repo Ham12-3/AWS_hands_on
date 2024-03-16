@@ -112,6 +112,7 @@ Then we have our security groups and our inbound rules there too:
 ![aws-25](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/1176f524-34be-42b4-85a6-3367c853942f)
 
 
+![aws-26](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/30579343-51da-44e1-a33f-e7eaf7074385)
 
 
 
