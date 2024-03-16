@@ -118,4 +118,13 @@
   ![aws-31](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/5b20ff36-e3d3-4439-9344-c10532a882b1)
 
 
+- The EBS Volume Present in my EC2 instance
+  ![aws-32](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/f1588b38-f6f2-4740-9054-bad60286f9bc)
+
+- EBS Volume being created
+
+  ![aws-33](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/099e37f0-3328-4c64-9df5-c0f313791794)
+
+
+
 
