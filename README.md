@@ -116,6 +116,12 @@ Then we have our security groups and our inbound rules there too:
 
 ![aws-27](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/7535e6b3-60a0-46bd-93c2-544aad982045)
 
+Just accessed my EC2 instance with the SSH on my windows powershell:
+
+
+![aws-28](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/b8f572cf-2ccc-47af-9639-43aa4b4e8024)
+
+
 
 
 
