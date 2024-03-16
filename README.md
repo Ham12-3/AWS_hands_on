@@ -113,4 +113,9 @@
 
 ![aws-29](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/3723f404-2f16-4c84-b45b-07aba04f813a)
 
+- Listing IAM users in  the IAM Group
+
+  ![aws-31](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/5b20ff36-e3d3-4439-9344-c10532a882b1)
+
+
 
