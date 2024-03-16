@@ -134,5 +134,18 @@
 
 - Retention rule used for the EBS snaphots
   ![aws-36](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/b69622f6-07d1-4ca5-a537-02f5a4781449)
+- The process of creating a new image
+
+![aws-37](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/4ba277c2-c914-45b1-b5d2-8119c656727e)
+
+- Launching EC2 Instances from AMI
+
+  ![aws-38](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/48798e20-36a5-483c-a75f-c5976f1b8b7a)
+
+- Result from launching EC2 instance from AMI
+
+![aws-39](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/187b0592-b0fb-46f0-9732-8789c154b87a)
+
+
 
 
