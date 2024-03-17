@@ -196,3 +196,8 @@
 
 ![aws-53](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/51f80a4d-f008-49c7-9148-ac0655c4d432)
 
+- Adding SSL certificates to the Elastic Load Balancers
+
+  ![aws-54](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/58ca1716-9d4f-4ed6-bd9a-5fd2c2d949e4)
+
+
