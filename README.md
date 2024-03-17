@@ -186,3 +186,13 @@
 
   ![aws-50](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/191d37e4-6535-4a97-868a-e6b2db565a43)
 
+- Creating a network load balancer
+![aws-51](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/bc437779-eb7f-4555-9062-e21b3533441f)
+
+
+- Successfully created the network load balancer
+
+  ![aws-52](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/2dc47c03-3f71-4a8d-b16f-629ca173cc53)
+
+![aws-53](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/51f80a4d-f008-49c7-9148-ac0655c4d432)
+
