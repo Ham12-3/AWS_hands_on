@@ -205,3 +205,8 @@
 ![aws-55](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/83798a18-1931-46ca-bbf7-66539abeb1ab)
 ![aws-56](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/66f20921-205d-47f7-b896-2c1ee4a800d1)
 
+- Auto Scaling group EC2 instance created and run
+
+![aws-57](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/48f23fbb-ddf2-4617-8dad-90c7faf8e7dc)
+
+
