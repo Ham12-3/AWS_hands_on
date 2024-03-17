@@ -165,5 +165,24 @@
   ![aws-44](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/20bcf668-0ada-4533-bc80-e43da8aa1a3c)
 
 
+- Creation of a load balancer
 
+   ![aws-45](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/6f7ec4c0-06eb-469d-bad3-ea7cb8a601d7)
+
+- Creating a security group for my application load balancer
+
+  ![aws-46](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/97afdfc6-145e-42f3-8cf2-00bc28a64838)
+
+- Target group for my EC2 instances
+
+   ![aws-47](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/74e54881-fdcd-443c-8af7-20a4e7c4dc97)
+
+
+- the load balancer is active and running
+  ![aws-48](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/014c82ea-5b32-44a4-b9be-4c43bd1f20c6)
+![aws-49](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/bbd1d439-c67c-4ff9-91d3-a76126b7c8b6)
+
+- Rules for the listeners of the Application Load Balancer
+
+  ![aws-50](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/191d37e4-6535-4a97-868a-e6b2db565a43)
 
