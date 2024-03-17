@@ -146,6 +146,24 @@
 
 ![aws-39](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/187b0592-b0fb-46f0-9732-8789c154b87a)
 
+- The EFS creation
+  ![aws-40](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/45155620-e76c-4f51-add1-a035cca5cd47)
+
+- Creating the EFS
+  ![aws-41](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/376eb756-771b-413d-8ed3-df920f5a0308)
+
+- The EFS Network Access Settings
+
+![aws-42](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/57cb3135-8da0-46f6-9144-4be116e29dc7)
+
+- Security group for the EFS
+
+  ![aws-43](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/4f0c0dc4-122e-413c-afdc-cb33238aeb78)
+
+- AWS EFS finally created
+
+  ![aws-44](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/20bcf668-0ada-4533-bc80-e43da8aa1a3c)
+
 
 
 
