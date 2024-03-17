@@ -200,4 +200,8 @@
 
   ![aws-54](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/58ca1716-9d4f-4ed6-bd9a-5fd2c2d949e4)
 
+- Auto Scaling group and its launch templates created successfully
+
+![aws-55](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/83798a18-1931-46ca-bbf7-66539abeb1ab)
+![aws-56](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/66f20921-205d-47f7-b896-2c1ee4a800d1)
 
