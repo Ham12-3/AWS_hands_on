@@ -209,4 +209,7 @@
 
 ![aws-57](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/48f23fbb-ddf2-4617-8dad-90c7faf8e7dc)
 
+- Automatic scaling policies of Auto Scaling Group
+
+  ![aws-58](https://github.com/Ham12-3/AWS_hands_on/assets/93613316/1f68229c-cbba-4b49-b5e8-95a336f64fbc)
 
